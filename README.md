@@ -4,7 +4,7 @@
 ### Hey there, I'm [Saurabh Burade](https://github.com/saurabhburade), a passionate self-taught Full Stack Web Developer 🚀 from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25/> 
 <a  href="https://www.linkedin.com/in/saurabh-burade-8371ab182/">
   <img align="left" alt="Saurabh's LinkedIN" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> &nbsp; &nbsp; <a  href="https://www.linkedin.com/in/saurabh-burade-8371ab182/">
+</a> &nbsp; &nbsp; <a  href="mailto:sburade3@gmail.com">
   <img  alt="Saurabh's LinkedIN" width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
