@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" /> 
 
 ### Hey there, I'm [Saurabh Burade](https://saurabhburade.live), 
-#####  A passionate self-taught Full Stack Web Developer 🚀 from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25/> 
+####  A passionate self-taught Full Stack Web Developer 🚀 from India. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25/> 
 
 
 
@@ -35,7 +35,7 @@
   <img  alt="Saurabh's LinkedIN" width="75px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-#### `Appriciate my work :`
+### `Appriciate my work :`
 
 
 <a href="https://www.buymeacoffee.com/saurabhburade"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=saurabhburade&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
